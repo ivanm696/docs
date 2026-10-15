@@ -83,3 +83,4 @@ Older Safari versions are not suported. They lack a few necessary Web Platform f
 Projects based on WebContainers can be [embedded](/guides/integration/embedding) as any other StackBlitz project. However, the [restrictions detailed above](#web-platform-requirements) hit harder when embedding a project since we no longer control the headers under which the _embedding_ content is served.
 
 For that reason, we only support embedding WebContainers-based projects in **Chromium-based browsers**.
+https://ivanm696.github.io/ai-library/
